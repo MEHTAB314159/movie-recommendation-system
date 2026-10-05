@@ -1,0 +1,51 @@
+movieId,title,genres,year,language,industry,rating,rating_count
+10001,3 Idiots,Comedy|Drama,2009,Hindi,Bollywood,4.4,1000
+10002,Taare Zameen Par,Drama,2007,Hindi,Bollywood,4.3,900
+10003,Dangal,Drama|Sport,2016,Hindi,Bollywood,4.5,1100
+10004,PK,Comedy|Drama|Sci-Fi,2014,Hindi,Bollywood,4.2,1000
+10005,Bajrangi Bhaijaan,Comedy|Drama,2015,Hindi,Bollywood,4.1,850
+10006,Chak De India,Drama|Sport,2007,Hindi,Bollywood,4.3,800
+10007,Rang De Basanti,Drama|History,2006,Hindi,Bollywood,4.2,750
+10008,Swades,Drama,2004,Hindi,Bollywood,4.1,700
+10009,Queen,Comedy|Drama,2013,Hindi,Bollywood,4.0,700
+10010,Zindagi Na Milegi Dobara,Comedy|Drama|Romance,2011,Hindi,Bollywood,4.2,850
+10011,Barfi,Comedy|Drama|Romance,2012,Hindi,Bollywood,4.1,800
+10012,Andhadhun,Crime|Comedy|Thriller,2018,Hindi,Bollywood,4.2,900
+10013,Drishyam,Crime|Drama|Thriller,2015,Hindi,Bollywood,4.3,950
+10014,Article 15,Crime|Drama,2019,Hindi,Bollywood,4.0,600
+10015,Gully Boy,Drama|Music,2019,Hindi,Bollywood,4.0,750
+10016,Uri The Surgical Strike,Action|Drama|War,2019,Hindi,Bollywood,4.1,800
+10017,Shershaah,Action|Drama|War,2021,Hindi,Bollywood,4.2,700
+10018,Kesari,Action|Drama|History|War,2019,Hindi,Bollywood,4.0,650
+10019,Stree,Comedy|Horror,2018,Hindi,Bollywood,4.0,700
+10020,Bhool Bhulaiyaa,Comedy|Horror|Mystery,2007,Hindi,Bollywood,4.0,650
+10021,Munna Bhai M.B.B.S.,Comedy|Drama,2003,Hindi,Bollywood,4.3,900
+10022,Lage Raho Munna Bhai,Comedy|Drama,2006,Hindi,Bollywood,4.2,850
+10023,Wake Up Sid,Comedy|Drama|Romance,2009,Hindi,Bollywood,4.0,650
+10024,Yeh Jawaani Hai Deewani,Comedy|Drama|Romance,2013,Hindi,Bollywood,4.0,900
+10025,Rockstar,Drama|Music|Romance,2011,Hindi,Bollywood,4.1,850
+10026,A Wednesday,Drama|Thriller,2008,Hindi,Bollywood,4.2,700
+10027,Special 26,Crime|Drama|Thriller,2013,Hindi,Bollywood,4.0,650
+10028,Bhaag Milkha Bhaag,Biography|Drama|Sport,2013,Hindi,Bollywood,4.2,800
+10029,Haider,Crime|Drama|Thriller,2014,Hindi,Bollywood,4.1,650
+10030,Mimi,Comedy|Drama,2021,Hindi,Bollywood,4.0,500
+10031,Kapoor and Sons,Comedy|Drama|Romance,2016,Hindi,Bollywood,4.0,600
+10032,Dear Zindagi,Drama|Romance,2016,Hindi,Bollywood,4.0,650
+10033,Raazi,Drama|Thriller|War,2018,Hindi,Bollywood,4.1,700
+10034,Tumbbad,Drama|Fantasy|Horror,2018,Hindi,Bollywood,4.2,650
+10035,Masaan,Drama|Romance,2015,Hindi,Bollywood,4.1,600
+10036,Kahaani,Drama|Mystery|Thriller,2012,Hindi,Bollywood,4.2,750
+10037,English Vinglish,Comedy|Drama,2012,Hindi,Bollywood,4.0,650
+10038,Neerja,Biography|Drama|Thriller,2016,Hindi,Bollywood,4.2,700
+10039,Pink,Drama|Thriller,2016,Hindi,Bollywood,4.1,700
+10040,The Lunchbox,Drama|Romance,2013,Hindi,Bollywood,4.1,650
+10041,OMG Oh My God,Comedy|Drama,2012,Hindi,Bollywood,4.0,600
+10042,Newton,Comedy|Drama,2017,Hindi,Bollywood,4.0,550
+10043,Article 15,Crime|Drama,2019,Hindi,Bollywood,4.0,600
+10044,Sonchiriya,Action|Drama,2019,Hindi,Bollywood,3.9,450
+10045,Piku,Comedy|Drama,2015,Hindi,Bollywood,4.1,700
+10046,October,Drama|Romance,2018,Hindi,Bollywood,4.0,500
+10047,Jugjugg Jeeyo,Comedy|Drama,2022,Hindi,Bollywood,3.8,450
+10048,Badhai Ho,Comedy|Drama,2018,Hindi,Bollywood,4.0,600
+10049,Secret Superstar,Drama|Music,2017,Hindi,Bollywood,4.0,650
+10050,Chhichhore,Comedy|Drama,2019,Hindi,Bollywood,4.1,750
